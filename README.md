@@ -1,5 +1,5 @@
 # 📊 Credit Risk Scoring System
-
+[![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://credit-risk-scoring-r4eqkwbvy9ciyycjwgcqt9.streamlit.app)
 > **Actuarial credit risk platform** — PD · LGD · EAD · Expected Loss · Monte Carlo simulation  
 > Built with XGBoost, scikit-learn, and Streamlit
 
